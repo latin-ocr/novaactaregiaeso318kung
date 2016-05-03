@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./novaactaregiaeso318kung_0495.png"; bbox 0 0 2025 3060; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 649 566 1354 641">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 649 566 1354 641">
+     <span class='ocr_line' id='line_1_1' title="bbox 649 566 1354 641; baseline -0.001 0"><span class='ocrx_word' id='word_1_1' title='bbox 649 568 963 641; x_wconf 85' lang='lat' dir='ltr'><strong>NOVA</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1055 566 1354 640; x_wconf 79' lang='lat' dir='ltr'><strong>ACTA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 558 720 1447 812">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 558 720 1447 812">
+     <span class='ocr_line' id='line_1_2' title="bbox 558 720 1447 812; baseline -0.001 0"><span class='ocrx_word' id='word_1_3' title='bbox 558 756 850 812; x_wconf 80' lang='lat' dir='ltr'>REGIAE</span> <span class='ocrx_word' id='word_1_4' title='bbox 908 720 1447 811; x_wconf 72' lang='lat' dir='ltr'>SOOIETATIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 284 934 1715 1031">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 863 1715 1094">
+     <span class='ocr_line' id='line_1_3' title="bbox 284 934 1715 1031; baseline 0.012 -16.688"><span class='ocrx_word' id='word_1_5' title='bbox 284 934 1715 1031; x_wconf 72' lang='lat' dir='ltr'><strong>SOIENTIARUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 1104 2025 2094">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 1104 2025 2094">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 1104 2025 2094; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 1104 2025 2094; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 605 2402 1405 2405">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 605 2402 1405 2405">
+     <span class='ocr_line' id='line_1_5' title="bbox 605 2402 1405 2405; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 605 2402 1405 2405; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 830 2427 1177 2463">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 830 2427 1177 2463">
+     <span class='ocr_line' id='line_1_6' title="bbox 830 2427 1177 2463; baseline -0.009 -4"><span class='ocrx_word' id='word_1_8' title='bbox 830 2427 1177 2463; x_wconf 67' lang='lat' dir='ltr'><strong>UUUUUUUU</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 918 2550 1081 2576">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 918 2550 1081 2576">
+     <span class='ocr_line' id='line_1_7' title="bbox 918 2550 1081 2576; baseline 0.006 -2"><span class='ocrx_word' id='word_1_9' title='bbox 918 2551 934 2575; x_wconf 68' lang='lat' dir='ltr'>B</span> <span class='ocrx_word' id='word_1_10' title='bbox 934 2550 1081 2576; x_wconf 80' lang='lat' dir='ltr'>CCCCCCC</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

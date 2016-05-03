@@ -1,0 +1,63 @@
+A 20 R. THALICJN,
+
+,5 De'termination du eoefficient de dilatation ε du reseau et
+de la longueur d’onde λ.
+
+Pnisque les observations de deviations ont ete faites aux tempera-
+tures tres differentes entre elles, il faut. connaitre la valeur du coefficient
+de dilatation ε du reseau.
+
+La formule complete du rese-(tu est'
+
+(14) logaffi :log Ξῖ»- ÷1og sin φ ÷ M [Bffl- 760) - A(t—15)÷ ÷(t-15)]‚
+
+m
+
+οὺ l'angle Φ est la moyenne des valeurs differentes obtenues de φ
+et de φ’.
+
+Suppose qu'on connaisse la valeur de cette constante ε, quelle
+qne soit la grandeur, nous n‘aurons qu’ir l'ajouter aux autres corrections
+indiquees, dont nous representons la somme par le signe Σ, et par con·
+sequent on aura.
+
+x
+
+⁷¹⁷
+Ι
+
+-Ι- {og sin Φ ψΣ
+
+e
+7
+
+ss„
+
+οὴ la seule inconnue est leg λῃ).
+
+Au contraire, si 1⁷01] veut par la methode des moindres cal-res
+connaitre non seulement ‘³15⁷ mais aussi la constante ε, nous aurens
+en mettant
+
+(15) leg sin ᾤ’ = leg sin Φ -f- M [B(H- 760> — A(t-15)]
+
+la formule
+
+(16) log λη 2 mg& ÷10g sm ‹12¹4- Μεα - 15) .
+
+ln
+
+En appelant dans ce cas
+
+ιι = log s‘L 4- Iog sin ᾤ’ 7 y = Alf 7 0: t- 15 ,.
+
+,r = 100· λ
+· ἰη
+
+ζ) 1517
+
+et en exprimant dans le calcul tons les membres en nnites de la Te de-
+cimalc (1η logarithme, on pent &crire l'equation precedente sous la forme
+
+.ι’ = ιι -ξ-μθ
+
